@@ -1,0 +1,6 @@
+{
+  "name": "Background Remover Pro",
+  "description": "An offline-capable AI background removal tool with batch processing, history, and real-time previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
